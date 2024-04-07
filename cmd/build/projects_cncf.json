@@ -1,0 +1,1724 @@
+[
+  {
+    "Dockerfile": 3456,
+    "HCL": 16017,
+    "Java": 20581223,
+    "Jinja": 1279,
+    "Python": 16695,
+    "Shell": 95687
+  },
+  {
+    "Dockerfile": 637,
+    "Go": 81597,
+    "Makefile": 1567,
+    "Shell": 4258
+  },
+  {
+    "C": 6283,
+    "CSS": 2254,
+    "Dockerfile": 10108,
+    "Go": 2741008,
+    "HTML": 1508,
+    "JavaScript": 27478,
+    "MDX": 5264,
+    "Makefile": 20012,
+    "Mustache": 6202,
+    "Python": 10286,
+    "Shell": 180310,
+    "Smarty": 8001,
+    "TypeScript": 1163578
+  },
+  {
+    "Dockerfile": 867,
+    "Go": 1412980,
+    "Makefile": 147,
+    "PowerShell": 1527,
+    "Python": 7518,
+    "Shell": 2612
+  },
+  {
+    "CSS": 51,
+    "Dockerfile": 5764,
+    "Go": 204649,
+    "HTML": 4053,
+    "JavaScript": 110240,
+    "Makefile": 3621,
+    "PowerShell": 785,
+    "Shell": 4699,
+    "Smarty": 1792,
+    "TypeScript": 1483445
+  },
+  {
+    "Go": 8804039,
+    "PowerShell": 1587,
+    "Shell": 29635
+  },
+  {
+    "Dockerfile": 5532,
+    "Go": 5080132,
+    "Makefile": 128483,
+    "Mustache": 8889,
+    "Shell": 64833
+  },
+  {
+    "Cap'n Proto": 292,
+    "Dockerfile": 239,
+    "HCL": 6539,
+    "Jinja": 1719,
+    "Rust": 132804,
+    "Shell": 4111
+  },
+  {
+    "Go": 1118482,
+    "Makefile": 4325,
+    "Shell": 11938
+  },
+  {
+    "AMPL": 4018,
+    "Batchfile": 124,
+    "C": 35429,
+    "Dockerfile": 8973,
+    "Fluent": 368,
+    "Go": 7949,
+    "LLVM": 38969,
+    "Makefile": 7296,
+    "PowerShell": 4893,
+    "Rust": 3564069,
+    "Shell": 5746
+  },
+  {
+    "C": 76356,
+    "C++": 16113308,
+    "Dockerfile": 16529,
+    "Go": 896027,
+    "Java": 62218,
+    "Jinja": 63556,
+    "Makefile": 10065,
+    "Python": 387325,
+    "Roff": 11723,
+    "SWIG": 500,
+    "Shell": 207015,
+    "Starlark": 239048
+  },
+  {
+    "Gherkin": 3594,
+    "Makefile": 1216,
+    "Python": 33674
+  },
+  {
+    "CSS": 365,
+    "Dockerfile": 8352,
+    "Go": 1537456,
+    "HTML": 523,
+    "Makefile": 14413,
+    "Mustache": 3956,
+    "Shell": 2602,
+    "Starlark": 4550,
+    "TypeScript": 68800,
+    "XSLT": 11880
+  },
+  {
+    "Makefile": 6310,
+    "Mustache": 1793,
+    "Python": 19474,
+    "Rust": 1073038,
+    "Shell": 12351
+  },
+  {
+    "Go": 255103,
+    "Makefile": 2630
+  },
+  {
+    "Dockerfile": 1676,
+    "Go": 1013651,
+    "Makefile": 12600,
+    "Python": 7474,
+    "Shell": 67967,
+    "Smarty": 2198
+  },
+  {
+    "Dockerfile": 1038,
+    "Go": 591846,
+    "Makefile": 6163,
+    "Shell": 6319
+  },
+  {
+    "Dockerfile": 369,
+    "Go": 3611185,
+    "Makefile": 2430,
+    "Shell": 39491
+  },
+  {
+    "Dockerfile": 144,
+    "Go": 47993,
+    "HTML": 2652,
+    "Makefile": 1959,
+    "Python": 188,
+    "Ruby": 54,
+    "Sass": 904
+  },
+  {
+    "C": 8174,
+    "Dockerfile": 23058,
+    "Jupyter Notebook": 9421,
+    "Lua": 92223,
+    "Makefile": 6848,
+    "Python": 187230,
+    "Rust": 563532,
+    "Shell": 38723,
+    "Smarty": 7998
+  },
+  {
+    "Dockerfile": 484,
+    "Go": 1680518,
+    "Makefile": 5697,
+    "Shell": 15263
+  },
+  {
+    "Batchfile": 151,
+    "Go": 657918,
+    "HTML": 11211,
+    "Makefile": 9222,
+    "Perl": 9933,
+    "SCSS": 650,
+    "Shell": 63381
+  },
+  {
+    "CSS": 44436,
+    "Dockerfile": 36159,
+    "Go": 327757,
+    "HTML": 82732,
+    "JavaScript": 215226,
+    "Makefile": 75323,
+    "PowerShell": 7883,
+    "Pug": 15663,
+    "Python": 214174,
+    "SCSS": 30189,
+    "Shell": 4185,
+    "TypeScript": 1167979
+  },
+  {
+    "CSS": 6528,
+    "Dockerfile": 2972,
+    "Go": 1080559,
+    "HTML": 5456,
+    "Makefile": 7364,
+    "Nix": 725,
+    "Shell": 1455
+  },
+  {
+    "Go": 3912885,
+    "Makefile": 10918,
+    "Ruby": 157,
+    "Shell": 77356,
+    "Smarty": 4490
+  },
+  {
+    "CSS": 2883,
+    "Dockerfile": 27100,
+    "Go": 1797643,
+    "HTML": 24153,
+    "Java": 14593494,
+    "JavaScript": 3423720,
+    "Makefile": 47721,
+    "Mustache": 9534,
+    "Perl": 951,
+    "Shell": 147851
+  },
+  {
+    "C": 326811,
+    "C++": 9352528,
+    "Dockerfile": 25870,
+    "Go": 3931624,
+    "HCL": 539,
+    "HTML": 2145,
+    "Java": 6717,
+    "JavaScript": 39125,
+    "Lua": 7455,
+    "Makefile": 24076,
+    "PHP": 40635,
+    "PLpgSQL": 2809,
+    "Python": 810697,
+    "Ruby": 44122,
+    "Scala": 2626,
+    "Shell": 272151,
+    "Starlark": 1088404,
+    "Thrift": 498,
+    "TypeScript": 1742934
+  },
+  {
+    "C": 5699,
+    "C++": 2978710,
+    "CMake": 153999,
+    "Cuda": 3204,
+    "Dockerfile": 5649,
+    "Go": 793223,
+    "HiveQL": 3593,
+    "Java": 636932,
+    "Makefile": 34910,
+    "Python": 1060652,
+    "Rust": 271649,
+    "Scala": 33699,
+    "Shell": 31263,
+    "Smarty": 3388
+  },
+  {
+    "C": 90137,
+    "Dockerfile": 7156,
+    "Go": 947227,
+    "HTML": 44857,
+    "Makefile": 24676,
+    "Shell": 126586
+  },
+  {
+    "Go": 378231,
+    "Makefile": 280,
+    "Shell": 3721
+  },
+  {
+    "C": 18763,
+    "Dockerfile": 120,
+    "Go": 1987540,
+    "Makefile": 18020,
+    "Nix": 2447,
+    "Shell": 402740
+  },
+  {
+    "Dockerfile": 1206,
+    "Go": 5025792,
+    "HTML": 4389754,
+    "JavaScript": 566,
+    "Makefile": 15042,
+    "SCSS": 33371,
+    "Shell": 46122,
+    "Smarty": 3855
+  },
+  {
+    "Dockerfile": 1456,
+    "Go": 4927568,
+    "Makefile": 6769,
+    "Shell": 13798
+  },
+  {
+    "CSS": 1767,
+    "Dockerfile": 2395,
+    "HTML": 830,
+    "JavaScript": 6055,
+    "Makefile": 2627,
+    "Nix": 15196,
+    "Python": 1404,
+    "Rust": 2099934,
+    "Shell": 3512,
+    "Smarty": 1894,
+    "TypeScript": 106688
+  },
+  {
+    "Dockerfile": 614,
+    "Go": 2604486,
+    "HTML": 3105,
+    "JavaScript": 48938,
+    "SCSS": 59549,
+    "Shell": 5220,
+    "TypeScript": 135529
+  },
+  {
+    "Dockerfile": 3321,
+    "Go": 524131,
+    "Makefile": 7373,
+    "Mustache": 2693,
+    "Shell": 14895,
+    "Smarty": 1944
+  },
+  {
+    "CSS": 4305,
+    "Dockerfile": 13407,
+    "Go": 2358814,
+    "JavaScript": 2100,
+    "Makefile": 7832,
+    "Mustache": 8181,
+    "Python": 516,
+    "Shell": 51722,
+    "TypeScript": 2019
+  },
+  {
+    "Go": 96848
+  },
+  {
+    "1C Enterprise": 272,
+    "Awk": 514,
+    "Dockerfile": 8343,
+    "Groovy": 36170,
+    "Java": 13624540,
+    "Makefile": 32484,
+    "Mustache": 10904,
+    "Shell": 149201
+  },
+  {
+    "C++": 5694,
+    "Dockerfile": 319,
+    "Go": 2858298,
+    "Makefile": 12023,
+    "Shell": 26155,
+    "Smarty": 3933,
+    "Starlark": 4686
+  },
+  {
+    "Dockerfile": 1161,
+    "Go": 636710,
+    "JavaScript": 686,
+    "Makefile": 13531,
+    "Shell": 14873,
+    "Smarty": 3857
+  },
+  {
+    "CSS": 31222,
+    "Dockerfile": 3932,
+    "HTML": 179129,
+    "Java": 2169170,
+    "JavaScript": 11808,
+    "Shell": 19853,
+    "Smarty": 2001,
+    "TypeScript": 283447
+  },
+  {
+    "Dockerfile": 4837,
+    "Emacs Lisp": 12224,
+    "Erlang": 74532,
+    "Makefile": 8470,
+    "Reason": 112,
+    "Rust": 4154793,
+    "Shell": 31448
+  },
+  {
+    "Dockerfile": 1227,
+    "Go": 610923,
+    "Python": 16376,
+    "Shell": 21913
+  },
+  {
+    "Dockerfile": 1275,
+    "Go": 1399912,
+    "HTML": 379,
+    "Makefile": 7187
+  },
+  {
+    "CSS": 2879,
+    "Dockerfile": 10380,
+    "Go": 3027476,
+    "HTML": 2763,
+    "JavaScript": 17978,
+    "Makefile": 34355,
+    "Ruby": 1173,
+    "Shell": 185005
+  },
+  {
+    "Dockerfile": 7566,
+    "Go": 1415808,
+    "HCL": 2329,
+    "Makefile": 6176,
+    "Shell": 2838
+  },
+  {
+    "Dockerfile": 15271,
+    "Go": 10020820,
+    "HCL": 5085,
+    "Jinja": 10085,
+    "Makefile": 27760,
+    "PowerShell": 65058,
+    "Shell": 506450,
+    "Smarty": 5781
+  },
+  {
+    "Dockerfile": 1587,
+    "Jinja": 35188,
+    "Makefile": 12531,
+    "Python": 6286,
+    "Shell": 10776
+  },
+  {
+    "Batchfile": 833,
+    "C": 3902,
+    "Dockerfile": 49117,
+    "Go": 69992555,
+    "HTML": 106,
+    "Makefile": 64005,
+    "PowerShell": 146830,
+    "Python": 24146,
+    "Shell": 1899918,
+    "sed": 1262
+  },
+  {
+    "Dockerfile": 1629,
+    "Go": 5664986,
+    "Makefile": 4924,
+    "Mustache": 16661,
+    "Shell": 188150,
+    "Smarty": 24359
+  },
+  {
+    "CSS": 2078,
+    "Dockerfile": 12674,
+    "Go": 5762882,
+    "HTML": 854604,
+    "JavaScript": 7469,
+    "Jinja": 290423,
+    "Makefile": 35584,
+    "PLpgSQL": 11799,
+    "Python": 615987,
+    "RobotFramework": 578675,
+    "SCSS": 117713,
+    "Shell": 72519,
+    "Smarty": 1931,
+    "TypeScript": 2071643
+  },
+  {
+    "Dockerfile": 1570,
+    "Go": 5178064,
+    "Jsonnet": 59379,
+    "Makefile": 12322,
+    "Procfile": 8727,
+    "Shell": 107490
+  },
+  {
+    "Dockerfile": 626,
+    "Go": 241223,
+    "Makefile": 3299,
+    "Shell": 16951
+  },
+  {
+    "Assembly": 8093,
+    "C": 1176281,
+    "Dockerfile": 2908,
+    "Go": 587997,
+    "Makefile": 45438,
+    "Python": 28433,
+    "Roff": 5081,
+    "Shell": 105534
+  },
+  {
+    "Go": 397510,
+    "Makefile": 3012,
+    "Shell": 10410
+  },
+  {
+    "Go": 20393
+  },
+  {
+    "Dockerfile": 35977,
+    "Go": 3070666,
+    "HCL": 4959,
+    "Jinja": 4521,
+    "Mustache": 3422,
+    "Perl": 12072,
+    "Python": 34319,
+    "Ruby": 24499,
+    "Shell": 22316,
+    "Smarty": 56
+  },
+  {
+    "Dockerfile": 3888,
+    "Go": 5206197,
+    "Makefile": 25610,
+    "PowerShell": 6191,
+    "Shell": 89394,
+    "jq": 4089
+  },
+  {
+    "Mustache": 1998,
+    "Python": 3735,
+    "Shell": 51543
+  },
+  {
+    "Makefile": 4031,
+    "Python": 2137374,
+    "Shell": 1731
+  },
+  {
+    "Dockerfile": 6609,
+    "Go": 4109040,
+    "HTML": 487,
+    "JavaScript": 1413281,
+    "Makefile": 8833,
+    "Mustache": 9871,
+    "Shell": 16049,
+    "TypeScript": 601259
+  },
+  {
+    "Python": 531147
+  },
+  {
+    "Batchfile": 31,
+    "JavaScript": 10515,
+    "Makefile": 455,
+    "TypeScript": 145259
+  },
+  {
+    "Dockerfile": 12713,
+    "Python": 7988,
+    "Rust": 890421,
+    "Shell": 37588
+  },
+  {
+    "Dockerfile": 3221,
+    "Go": 696651,
+    "Makefile": 3435,
+    "Shell": 1530
+  },
+  {
+    "Awk": 5444,
+    "Batchfile": 48631,
+    "C": 1308892,
+    "C#": 155656,
+    "C++": 21571459,
+    "CMake": 33363,
+    "CSS": 1519,
+    "Cython": 288981,
+    "Dockerfile": 207537,
+    "Go": 34794,
+    "HTML": 14,
+    "Java": 14329,
+    "JavaScript": 5803,
+    "Objective-C": 540248,
+    "Objective-C++": 268147,
+    "PHP": 494166,
+    "PowerShell": 5960,
+    "Python": 3859863,
+    "Ruby": 668192,
+    "Shell": 851381,
+    "Starlark": 1186183,
+    "Swift": 18587,
+    "XSLT": 9855
+  },
+  {
+    "C": 6174,
+    "Go": 2814368,
+    "Jinja": 9232,
+    "Makefile": 45401,
+    "Shell": 4233,
+    "Smarty": 1866
+  },
+  {
+    "Go": 362378,
+    "Shell": 10348
+  },
+  {
+    "Dockerfile": 772,
+    "Go": 1535223,
+    "Makefile": 3746,
+    "Shell": 22332
+  },
+  {
+    "ANTLR": 3954,
+    "Makefile": 275,
+    "Python": 23885
+  },
+  {
+    "C#": 398131,
+    "CSS": 13336,
+    "Dockerfile": 12697,
+    "Go": 3765703,
+    "HTML": 1295,
+    "JavaScript": 1459,
+    "Julia": 9981,
+    "PLpgSQL": 5220,
+    "Python": 84129,
+    "Shell": 12310,
+    "Smarty": 14921,
+    "TypeScript": 378583
+  },
+  {
+    "CSS": 47647,
+    "Dockerfile": 1273,
+    "Go": 14434933,
+    "HTML": 28430,
+    "Java": 1080,
+    "JavaScript": 13,
+    "Makefile": 55556,
+    "Python": 12110,
+    "Shell": 118151,
+    "Smarty": 9876
+  },
+  {
+    "C": 6514,
+    "Dockerfile": 4003,
+    "Makefile": 16649,
+    "Perl": 182788,
+    "Python": 372891,
+    "Rust": 22036253,
+    "Shell": 14562
+  },
+  {
+    "Dockerfile": 306,
+    "Go": 2948808,
+    "Makefile": 8558,
+    "Mustache": 1219,
+    "Shell": 10551
+  },
+  {
+    "C": 331222,
+    "C++": 5724906,
+    "CMake": 162152,
+    "Dockerfile": 30,
+    "HCL": 524,
+    "Java": 116362,
+    "Kotlin": 1730,
+    "Makefile": 1842,
+    "Nix": 2680,
+    "Objective-C++": 840,
+    "Python": 69974,
+    "Rust": 38234,
+    "Shell": 65593,
+    "WebAssembly": 17352
+  },
+  {
+    "Dockerfile": 4933,
+    "Go": 2172987,
+    "Makefile": 8059,
+    "Python": 498,
+    "Shell": 84541,
+    "Smarty": 410
+  },
+  {
+    "Dockerfile": 3130,
+    "Rust": 1770057,
+    "Shell": 29372,
+    "TLA": 14609
+  },
+  {
+    "C": 6790517,
+    "Dockerfile": 1996,
+    "Go": 542586,
+    "Makefile": 11514,
+    "Ruby": 1243,
+    "Shell": 37797
+  },
+  {
+    "JavaScript": 1426,
+    "Makefile": 282,
+    "TypeScript": 3620
+  },
+  {
+    "CSS": 3889,
+    "Dockerfile": 1479,
+    "HTML": 83243,
+    "JavaScript": 19757,
+    "Makefile": 538,
+    "SCSS": 53689,
+    "Shell": 887
+  },
+  {
+    "Dockerfile": 775,
+    "HTML": 1268,
+    "JavaScript": 4603548,
+    "SCSS": 21223,
+    "Shell": 223,
+    "TypeScript": 365590
+  },
+  {
+    "C": 6205323,
+    "Dockerfile": 9964,
+    "Go": 2551337,
+    "Makefile": 30524,
+    "Perl": 2148,
+    "Shell": 17736,
+    "Smarty": 1357
+  },
+  {
+    "Dockerfile": 6082,
+    "Go": 5474533,
+    "HTML": 11942,
+    "Makefile": 17968,
+    "PLpgSQL": 781,
+    "SCSS": 3000,
+    "Shell": 17178
+  },
+  {},
+  {
+    "Just": 2154,
+    "PowerShell": 3236,
+    "Rust": 822219,
+    "Shell": 4278
+  },
+  {
+    "CSS": 57970,
+    "HTML": 15808,
+    "JavaScript": 94870,
+    "Shell": 1856,
+    "TypeScript": 21060
+  },
+  {
+    "Dockerfile": 1532,
+    "Go": 369627,
+    "Makefile": 21607,
+    "Mustache": 4614,
+    "Shell": 4698
+  },
+  {
+    "Dockerfile": 3760,
+    "Go": 984722,
+    "Makefile": 4164,
+    "PowerShell": 1012,
+    "Ruby": 5330,
+    "Shell": 11982
+  },
+  {
+    "Makefile": 156
+  },
+  {
+    "Python": 1101,
+    "Rust": 129223,
+    "Shell": 1036
+  },
+  {
+    "Dockerfile": 8475,
+    "Go": 3096654,
+    "HTML": 1845,
+    "JavaScript": 340,
+    "Jsonnet": 9510,
+    "Makefile": 29764,
+    "Python": 17031,
+    "Shell": 42756
+  },
+  {
+    "CSS": 100263,
+    "Dockerfile": 5089,
+    "Go": 1160098,
+    "HTML": 14098,
+    "JavaScript": 3547,
+    "Mustache": 301920,
+    "Python": 4994,
+    "SCSS": 25990,
+    "SQL": 561318,
+    "Shell": 8135,
+    "TypeScript": 3478027
+  },
+  {
+    "CSS": 1762,
+    "Dockerfile": 4711,
+    "Go": 8967463,
+    "HTML": 4958,
+    "JavaScript": 7515,
+    "Makefile": 72307,
+    "Mustache": 14307,
+    "PLpgSQL": 2025,
+    "Shell": 37822
+  },
+  {
+    "CSS": 414,
+    "Dockerfile": 731,
+    "Go": 679946,
+    "HTML": 999,
+    "Makefile": 9061,
+    "Shell": 33221
+  },
+  {
+    "CSS": 2968,
+    "Go": 155662,
+    "JavaScript": 3827,
+    "Makefile": 5872,
+    "Open Policy Agent": 590
+  },
+  {
+    "Batchfile": 1878,
+    "Go": 1907158,
+    "HCL": 11528,
+    "Makefile": 28656,
+    "PowerShell": 738,
+    "Ruby": 695,
+    "Shell": 5928,
+    "Smarty": 3022
+  },
+  {
+    "Dockerfile": 1270,
+    "Go": 318782,
+    "Makefile": 12309,
+    "Shell": 4018,
+    "Smarty": 2140
+  },
+  {
+    "Dockerfile": 1180,
+    "Go": 3823495,
+    "Java": 109,
+    "Makefile": 24623,
+    "Shell": 183109
+  },
+  {
+    "Go": 31401,
+    "Makefile": 1633
+  },
+  {
+    "Dockerfile": 1166,
+    "Jinja": 6425,
+    "Python": 476463,
+    "Shell": 12716
+  },
+  {
+    "Shell": 3041
+  },
+  {
+    "Go": 309405,
+    "Makefile": 4692,
+    "Shell": 9132
+  },
+  {
+    "Dockerfile": 5506,
+    "Go": 1339530,
+    "HTML": 30724,
+    "Makefile": 10381,
+    "SCSS": 39919,
+    "Shell": 20143
+  },
+  {
+    "Dockerfile": 12501,
+    "Go": 611732,
+    "Makefile": 44301,
+    "Shell": 3654
+  },
+  {
+    "C": 1694899,
+    "Dockerfile": 27752,
+    "Go": 15497950,
+    "HCL": 1525,
+    "Lua": 1757,
+    "Makefile": 69702,
+    "Mustache": 1457,
+    "Python": 10206,
+    "Ruby": 334,
+    "Shell": 398293,
+    "SmPL": 13273,
+    "Smarty": 19095,
+    "TeX": 416
+  },
+  {
+    "Go": 4090661,
+    "Shell": 84310
+  },
+  {
+    "CSS": 15911,
+    "Dockerfile": 1549,
+    "Go": 4281724,
+    "HTML": 29626,
+    "JavaScript": 325,
+    "Jsonnet": 131169,
+    "Makefile": 30186,
+    "SCSS": 16155,
+    "Shell": 19374,
+    "TypeScript": 401398,
+    "jq": 546
+  },
+  {
+    "Dockerfile": 3887,
+    "Go": 954381,
+    "JavaScript": 718,
+    "Makefile": 10847,
+    "SCSS": 151640,
+    "Shell": 4553
+  },
+  {
+    "Dockerfile": 6099,
+    "Go": 1886871,
+    "HCL": 5340,
+    "PowerShell": 1712,
+    "Shell": 7863
+  },
+  {
+    "Awk": 2816,
+    "Dockerfile": 17535,
+    "Go": 1491107,
+    "HTML": 26989,
+    "Makefile": 128714,
+    "Mustache": 3855,
+    "Python": 1926882,
+    "Shell": 88486
+  },
+  {
+    "Dockerfile": 1720,
+    "Go": 6789046,
+    "Makefile": 49719,
+    "Mustache": 23033,
+    "Shell": 22697
+  },
+  {
+    "Dockerfile": 9109,
+    "Go": 389940,
+    "JavaScript": 6826,
+    "Makefile": 3526,
+    "Mustache": 460,
+    "Python": 2021,
+    "Shell": 7244
+  },
+  {
+    "Dockerfile": 665,
+    "Go": 412485,
+    "Makefile": 16796,
+    "Mustache": 2639,
+    "Shell": 40320
+  },
+  {},
+  {
+    "Python": 426292
+  },
+  {
+    "Dockerfile": 1575,
+    "Go": 4908690,
+    "HTML": 259,
+    "Makefile": 44245,
+    "Python": 109211,
+    "Ruby": 264,
+    "Shell": 151710,
+    "Smarty": 15540
+  },
+  {
+    "C": 934493,
+    "C++": 707308,
+    "Dockerfile": 2529,
+    "Go": 6809564,
+    "JavaScript": 14203,
+    "Makefile": 22403,
+    "Open Policy Agent": 31065,
+    "Python": 5616,
+    "Shell": 18545
+  },
+  {
+    "Dockerfile": 967,
+    "Go": 2716143,
+    "HTML": 213,
+    "Makefile": 3948,
+    "Shell": 699,
+    "Yacc": 2954
+  },
+  {
+    "HTML": 7457,
+    "Ruby": 3293508
+  },
+  {
+    "CSS": 2209,
+    "Dockerfile": 14961,
+    "Go": 5904340,
+    "HTML": 895,
+    "JavaScript": 4582,
+    "Lua": 108686,
+    "Makefile": 24060,
+    "Mustache": 1066,
+    "Procfile": 9393,
+    "SCSS": 86324,
+    "Shell": 50621,
+    "TypeScript": 1115917
+  },
+  {
+    "CSS": 4316,
+    "Dockerfile": 31719,
+    "Go": 3724760,
+    "HTML": 246672,
+    "JavaScript": 6439,
+    "MDX": 7731,
+    "Mustache": 23444,
+    "SCSS": 44857,
+    "Shell": 61274,
+    "Smarty": 2413,
+    "TypeScript": 2587769
+  },
+  {
+    "C": 71721,
+    "Dockerfile": 1392,
+    "Go": 131175,
+    "Makefile": 14251,
+    "Shell": 12483,
+    "Smarty": 2502
+  },
+  {
+    "C": 3994,
+    "C++": 656640,
+    "CMake": 54725,
+    "Dockerfile": 11367,
+    "Shell": 35088
+  },
+  {
+    "C": 5370,
+    "Dockerfile": 6258,
+    "Go": 14159216,
+    "Makefile": 9127,
+    "Python": 2743,
+    "Shell": 273426,
+    "Starlark": 437374
+  },
+  {
+    "CUE": 258256,
+    "Dockerfile": 1624,
+    "Go": 4584666,
+    "HCL": 1188,
+    "Makefile": 15571,
+    "Mustache": 42169,
+    "Shell": 18949
+  },
+  {
+    "C#": 5105514,
+    "F#": 207,
+    "PowerShell": 9466
+  },
+  {
+    "C#": 1286,
+    "CSS": 4339,
+    "Dockerfile": 15065,
+    "Groovy": 22090,
+    "HTML": 6012,
+    "Java": 36882,
+    "JavaScript": 243847,
+    "Jinja": 23122,
+    "Lua": 821,
+    "Mustache": 2820,
+    "Python": 120878,
+    "Scala": 4990016,
+    "Shell": 113515,
+    "Swift": 11486
+  },
+  {
+    "Dockerfile": 2275,
+    "Just": 4673,
+    "Rust": 938640,
+    "Shell": 4731
+  },
+  {
+    "Dockerfile": 6170,
+    "Go": 3909371,
+    "Makefile": 18352,
+    "Shell": 11665
+  },
+  {
+    "Go": 110743,
+    "Makefile": 385
+  },
+  {
+    "Assembly": 29554,
+    "CSS": 10774,
+    "Dockerfile": 23635,
+    "Go": 33696839,
+    "HCL": 959,
+    "HTML": 807,
+    "Java": 990163,
+    "JavaScript": 32564,
+    "Jsonnet": 121075,
+    "Makefile": 19174,
+    "Perl": 3161,
+    "Python": 1955,
+    "SCSS": 41351,
+    "Shell": 168590,
+    "Smarty": 36032,
+    "TypeScript": 545512,
+    "Yacc": 186192
+  },
+  {
+    "Dockerfile": 5224,
+    "Go": 6156406,
+    "HCL": 136,
+    "Makefile": 20509,
+    "Open Policy Agent": 1719,
+    "Shell": 152985
+  },
+  {
+    "CSS": 39772,
+    "HTML": 6519,
+    "JavaScript": 545812,
+    "Shell": 2838
+  },
+  {
+    "CSS": 3682,
+    "Dockerfile": 1270,
+    "Go": 6248094,
+    "HTML": 30834,
+    "JavaScript": 28292,
+    "Lex": 6418,
+    "Makefile": 5159,
+    "SCSS": 18605,
+    "Shell": 18259,
+    "TypeScript": 502128,
+    "Yacc": 33095
+  },
+  {
+    "CSS": 10603,
+    "Dockerfile": 268,
+    "Go": 684318,
+    "Open Policy Agent": 1200,
+    "Procfile": 382,
+    "Ruby": 213,
+    "Shell": 16402
+  },
+  {
+    "C": 204549,
+    "Dockerfile": 2644,
+    "Go": 1243466,
+    "Makefile": 9727,
+    "Ruby": 2043,
+    "Shell": 291358
+  },
+  {
+    "Assembly": 490859,
+    "Batchfile": 110,
+    "C": 67688845,
+    "C++": 228175,
+    "CMake": 2096647,
+    "Cadence": 1701,
+    "EmberScript": 848,
+    "Forth": 2133,
+    "GDB": 1683,
+    "Haskell": 603,
+    "JetBrains MPS": 3055,
+    "M4": 853,
+    "Makefile": 6010,
+    "PLSQL": 164,
+    "Perl": 216436,
+    "Python": 3502318,
+    "Raku": 321,
+    "RobotFramework": 679,
+    "Shell": 447304,
+    "SmPL": 36840,
+    "Tcl": 7055,
+    "Verilog": 6394,
+    "Vim Script": 420,
+    "Visual Basic 6.0": 162
+  },
+  {
+    "Dockerfile": 265,
+    "Go": 2355124,
+    "Makefile": 6419
+  },
+  {
+    "Dockerfile": 8296,
+    "Go": 3661254,
+    "Makefile": 17658,
+    "Roff": 20180,
+    "Shell": 31547
+  },
+  {
+    "Go": 146862,
+    "HCL": 86331,
+    "Jinja": 19775,
+    "Just": 785,
+    "Makefile": 15116,
+    "PowerShell": 1804,
+    "Python": 8148463,
+    "Shell": 15726,
+    "Smarty": 359
+  },
+  {
+    "CSS": 24202,
+    "Dockerfile": 10394,
+    "Go": 2265123,
+    "HTML": 2164,
+    "JavaScript": 2361256,
+    "Makefile": 23652,
+    "Mustache": 24214,
+    "Open Policy Agent": 17904,
+    "Shell": 2090,
+    "Smarty": 513
+  },
+  {
+    "Dockerfile": 3759,
+    "Go": 2673457,
+    "HCL": 28331,
+    "HTML": 195,
+    "Makefile": 18750,
+    "Python": 3286,
+    "Shell": 12672,
+    "Smarty": 8690
+  },
+  {
+    "Dockerfile": 924,
+    "Go": 86470,
+    "Shell": 14264
+  },
+  {
+    "Dockerfile": 1292,
+    "Go": 337906,
+    "Makefile": 4668,
+    "Smarty": 1346
+  },
+  {
+    "Batchfile": 1187,
+    "Bicep": 26690,
+    "C#": 20676,
+    "Dockerfile": 9016,
+    "Go": 7165888,
+    "Java": 17849,
+    "JavaScript": 26814,
+    "Makefile": 71151,
+    "Mustache": 7525,
+    "PHP": 2600,
+    "Python": 13029,
+    "Shell": 77924,
+    "Smarty": 208
+  },
+  {
+    "Dockerfile": 997,
+    "Go": 312786,
+    "Makefile": 7200,
+    "Python": 2757,
+    "Shell": 5062
+  },
+  {
+    "Dockerfile": 5576,
+    "Go": 2296186,
+    "Inno Setup": 3583,
+    "Makefile": 2098,
+    "Mustache": 34117,
+    "Ruby": 573,
+    "Shell": 40874,
+    "Smarty": 2986
+  },
+  {
+    "Dockerfile": 981,
+    "Go": 402325,
+    "HTML": 47407,
+    "Makefile": 3080,
+    "Shell": 17192,
+    "Thrift": 94
+  },
+  {
+    "Dockerfile": 1846,
+    "Go": 2660804,
+    "Makefile": 21657,
+    "Python": 2043,
+    "Shell": 17045,
+    "Smarty": 2713
+  },
+  {
+    "Assembly": 9553085,
+    "Awk": 43651,
+    "C": 1277428925,
+    "C++": 156121,
+    "CMake": 68,
+    "Clojure": 2260,
+    "Gherkin": 9724,
+    "Lex": 68792,
+    "M4": 3329,
+    "MATLAB": 2482,
+    "Makefile": 2581027,
+    "Perl": 1251442,
+    "Python": 2506007,
+    "Raku": 3859,
+    "Roff": 193387,
+    "Rust": 737707,
+    "Shell": 4696166,
+    "SmPL": 160647,
+    "UnrealScript": 16848,
+    "XS": 1239,
+    "Yacc": 127858,
+    "sed": 379
+  },
+  {
+    "Dockerfile": 6780,
+    "Go": 55488,
+    "Jinja": 7168,
+    "Makefile": 12784,
+    "Shell": 35593
+  },
+  {
+    "Dockerfile": 2974,
+    "Go": 354496,
+    "Makefile": 13102,
+    "Shell": 4881,
+    "Smarty": 416
+  },
+  {
+    "Dockerfile": 389,
+    "Go": 1183347,
+    "Jsonnet": 5477,
+    "Makefile": 632,
+    "PLpgSQL": 1483,
+    "Shell": 355
+  },
+  {
+    "Dockerfile": 270,
+    "Go": 215380,
+    "Makefile": 2780,
+    "Shell": 10745
+  },
+  {
+    "C": 35063,
+    "Go": 1912884,
+    "HTML": 58457,
+    "M4": 45622,
+    "Makefile": 159392,
+    "Shell": 74312
+  },
+  {
+    "Dockerfile": 900,
+    "EJS": 4689,
+    "Go": 1342154,
+    "JavaScript": 417609,
+    "Less": 18417,
+    "Makefile": 3356,
+    "Python": 5033,
+    "Shell": 2003,
+    "Smarty": 1772,
+    "TypeScript": 1047
+  },
+  {
+    "Dockerfile": 3571,
+    "Go": 1294899,
+    "Makefile": 13157,
+    "Shell": 8767
+  },
+  {
+    "CSS": 20596,
+    "Dockerfile": 6328,
+    "Go": 1301940,
+    "HTML": 46108,
+    "JavaScript": 38544,
+    "Jsonnet": 1644,
+    "Mustache": 3221,
+    "Open Policy Agent": 2501,
+    "Python": 48407,
+    "SCSS": 65989,
+    "Shell": 6236,
+    "Smarty": 1503
+  },
+  {
+    "CSS": 391,
+    "Dockerfile": 3225,
+    "Go": 3368962,
+    "HTML": 373,
+    "JavaScript": 105643,
+    "Just": 3276,
+    "Makefile": 557,
+    "Shell": 1457,
+    "Starlark": 1493
+  },
+  {
+    "Dockerfile": 9674,
+    "Go": 1817970,
+    "Makefile": 55107,
+    "Shell": 110535,
+    "Smarty": 15368
+  },
+  {
+    "Dockerfile": 1450,
+    "Go": 1484695,
+    "Makefile": 11327,
+    "Mustache": 2308,
+    "Shell": 9097
+  },
+  {
+    "Dockerfile": 732,
+    "Go": 1679782,
+    "Makefile": 1623
+  },
+  {
+    "Dockerfile": 1710,
+    "Go": 599669,
+    "HTML": 12336,
+    "JavaScript": 16112,
+    "Makefile": 5937,
+    "PowerShell": 227,
+    "Sass": 3761,
+    "Shell": 391
+  },
+  {
+    "Assembly": 2219,
+    "C": 4021,
+    "Dockerfile": 1991,
+    "Go": 10369440,
+    "Java": 15006,
+    "JavaScript": 5845,
+    "Makefile": 5469,
+    "Python": 101661,
+    "Shell": 119841,
+    "Smarty": 1378
+  },
+  {
+    "Batchfile": 6256,
+    "CSS": 43475,
+    "Dockerfile": 2646,
+    "Fluent": 217,
+    "FreeMarker": 196199,
+    "Groovy": 4915,
+    "HTML": 26996,
+    "Java": 34389442,
+    "JavaScript": 230066,
+    "Mustache": 5212,
+    "Shell": 31265,
+    "TypeScript": 3016316,
+    "XSLT": 50033
+  },
+  {
+    "Dockerfile": 2377,
+    "Go": 149633,
+    "HTML": 29253,
+    "JavaScript": 2805,
+    "Makefile": 1505
+  },
+  {
+    "ANTLR": 32743,
+    "Batchfile": 795,
+    "C++": 1187412,
+    "CMake": 36473,
+    "CSS": 28971,
+    "Dockerfile": 8212,
+    "HTML": 34836,
+    "Java": 57075951,
+    "JavaScript": 988923,
+    "Makefile": 16098,
+    "Mustache": 17984,
+    "NASL": 12315,
+    "PLSQL": 85,
+    "Python": 39487,
+    "Roff": 52281,
+    "Shell": 60692,
+    "Thrift": 14675
+  },
+  {
+    "Dockerfile": 1832,
+    "Jinja": 109976,
+    "Makefile": 138,
+    "Mako": 919,
+    "Python": 1000690,
+    "Shell": 51195,
+    "Standard ML": 1202
+  },
+  {
+    "Dockerfile": 1864,
+    "Go": 276497,
+    "Makefile": 4911,
+    "Shell": 6376
+  },
+  {
+    "Dockerfile": 1139,
+    "Go": 423882,
+    "Makefile": 6727,
+    "Shell": 21571
+  },
+  {
+    "Dockerfile": 9653,
+    "Go": 1286346,
+    "Makefile": 3892,
+    "Shell": 39208,
+    "Smarty": 6823
+  },
+  {
+    "Batchfile": 417,
+    "CSS": 6471,
+    "Dockerfile": 11379,
+    "Go": 2800556,
+    "HTML": 1224,
+    "JavaScript": 429416,
+    "Makefile": 18904,
+    "Mustache": 436,
+    "PowerShell": 804,
+    "Rust": 727507,
+    "Shell": 77596,
+    "Smarty": 19996
+  },
+  {
+    "Dockerfile": 10195,
+    "Go": 2968306,
+    "Makefile": 13920,
+    "Mustache": 1288,
+    "Shell": 189103
+  },
+  {
+    "Makefile": 191
+  },
+  {
+    "Dockerfile": 1874,
+    "Go": 5859727,
+    "Makefile": 15236,
+    "Mustache": 47930,
+    "Python": 155439,
+    "Shell": 59336,
+    "Smarty": 5536
+  },
+  {
+    "C": 3764,
+    "Makefile": 4622,
+    "Python": 2113,
+    "Rust": 779189,
+    "Shell": 50887
+  },
+  {
+    "AIDL": 1633,
+    "C": 1488418,
+    "C#": 2097080,
+    "C++": 48142276,
+    "CMake": 638,
+    "GAP": 62,
+    "GDScript": 215639,
+    "GLSL": 963059,
+    "Java": 588388,
+    "JavaScript": 222960,
+    "Kotlin": 155005,
+    "Objective-C": 24461,
+    "Objective-C++": 520217,
+    "Python": 563957,
+    "Shell": 15457
+  },
+  {
+    "Assembly": 157,
+    "Batchfile": 40461,
+    "C": 637803,
+    "C++": 5057336,
+    "Emacs Lisp": 14363,
+    "HTML": 163390,
+    "JavaScript": 14719935,
+    "Makefile": 54398,
+    "Perl": 11715,
+    "Python": 2567467,
+    "R": 8037,
+    "Shell": 103823,
+    "TypeScript": 702
+  },
+  {
+    "Go": 33580,
+    "HTML": 384440,
+    "Makefile": 2244,
+    "PLpgSQL": 27518,
+    "Roff": 512,
+    "Ruby": 18931,
+    "Shell": 1274818,
+    "Vim Script": 456
+  },
+  {
+    "Dockerfile": 580,
+    "Java": 5306921,
+    "Kotlin": 21556,
+    "Shell": 932
+  },
+  {
+    "CSS": 8649,
+    "Go": 1191104,
+    "HTML": 2119,
+    "JavaScript": 11633,
+    "PowerShell": 374,
+    "Shell": 3678
+  },
+  {
+    "Dockerfile": 991,
+    "Go": 2715285,
+    "Makefile": 4053,
+    "Ruby": 58,
+    "Shell": 15358
+  },
+  {
+    "Batchfile": 439,
+    "C": 52670,
+    "C++": 44198736,
+    "CSS": 2927,
+    "Dockerfile": 1432,
+    "Emacs Lisp": 966,
+    "Go": 161252,
+    "HTML": 1522,
+    "Java": 1282499,
+    "JavaScript": 67330,
+    "Jinja": 46576,
+    "Kotlin": 315984,
+    "Makefile": 303,
+    "NASL": 327095,
+    "Objective-C": 50747,
+    "Objective-C++": 53714,
+    "PureBasic": 472,
+    "Python": 613889,
+    "Rust": 38055,
+    "Shell": 246419,
+    "Smarty": 3528,
+    "Starlark": 2741208,
+    "Swift": 300868,
+    "Thrift": 748
+  },
+  {
+    "Go": 1856846,
+    "Makefile": 8040,
+    "Shell": 30659
+  },
+  {
+    "Dockerfile": 754,
+    "Go": 2021682,
+    "Makefile": 7460,
+    "Shell": 110
+  },
+  {
+    "C": 3378,
+    "Dockerfile": 4883,
+    "Go": 226514,
+    "Makefile": 13064
+  },
+  {
+    "Dockerfile": 1524,
+    "Go": 466650,
+    "Makefile": 7730,
+    "Shell": 15556
+  },
+  {
+    "Dockerfile": 574,
+    "Go": 526218,
+    "Makefile": 3755,
+    "Rust": 31078
+  },
+  {
+    "Dockerfile": 2601,
+    "Go": 2992653,
+    "Makefile": 14538,
+    "Python": 2544,
+    "Shell": 116362,
+    "Starlark": 8581
+  },
+  {
+    "Dockerfile": 1303,
+    "Go": 281467,
+    "Jinja": 1965,
+    "Makefile": 13956,
+    "Python": 20223,
+    "Shell": 59145,
+    "Smarty": 1822
+  },
+  {
+    "Dockerfile": 540,
+    "Go": 981383,
+    "HCL": 9334,
+    "Makefile": 4689,
+    "Shell": 7613
+  },
+  {
+    "Dockerfile": 1329,
+    "Go": 292543,
+    "Makefile": 12436,
+    "Nix": 465,
+    "Shell": 1839
+  },
+  {
+    "Dockerfile": 2173,
+    "Go": 994208,
+    "Makefile": 7821,
+    "Shell": 27756
+  },
+  {
+    "Dockerfile": 1984,
+    "Go": 1268440,
+    "HCL": 12820,
+    "Makefile": 1163,
+    "Ruby": 8264,
+    "Shell": 186622
+  },
+  {
+    "CSS": 26567,
+    "Dockerfile": 10033,
+    "HCL": 1581,
+    "HTML": 10352,
+    "Handlebars": 38395,
+    "JavaScript": 457580,
+    "MDX": 315567,
+    "Makefile": 5185,
+    "Mustache": 14890,
+    "PowerShell": 698,
+    "SCSS": 10395,
+    "Shell": 5657,
+    "TypeScript": 21855010
+  },
+  {
+    "CSS": 12144,
+    "Go": 3396,
+    "HTML": 20588,
+    "JavaScript": 37212,
+    "SCSS": 53231,
+    "Smarty": 388,
+    "TypeScript": 1474173
+  }
+]
