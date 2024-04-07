@@ -19,7 +19,7 @@ import (
 var (
 	// you need to generate personal access token at
 	// https://github.com/settings/applications#personal-access-tokens
-	personalAccessToken = "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"
+	personalAccessToken = "GithubSecret"
  )
  
  
